@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.caja{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+}
+
+
+.imagen{
+
+    width: auto;
+}
+.colors{
+    color: brown;
+}
+body{
+    background-color: beige;
+}
