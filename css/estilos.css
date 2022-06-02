@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.caja{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+}
+
+
+.imagen{
+
+    width: 40%;
+}
+.colors{
+    color: brown;
+}
+h2, h3{
+    color: rgb(221, 177, 19);
+}
+
